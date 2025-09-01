@@ -1,5 +1,3 @@
-Of course, here is the updated `README.md` with the new features:
-
 # 🤖 etiKIA-bot
 
 Automation tools for interacting with **Kite AI Ozone Testnet** [](https://testnet.gokite.ai?referralCode=QAJNHSGD)
@@ -96,3 +94,4 @@ This tool is for educational and testing purposes only on the Kite AI Ozone Test
 ## 📄 License
 
 This project is licensed under the [MIT © 2025](https://github.com/itsnodrops/etikia-bot/blob/main/LICENSE).
+
