@@ -27,7 +27,7 @@ Automation tools for interacting with **Kite AI Ozone Testnet** [](https://testn
 
 ## 🧪 Prerequisites
 
-  * KiteAI Ozone account. [](https://testnet.gokite.ai?referralCode=QAJNHSGD)
+  * [KiteAI Ozone account](https://testnet.gokite.ai?referralCode=QAJNHSGD).
   * npm (usually comes with Node.js)
   * [Groq API key](https://console.groq.com/) (*Optional, for better experience*)
 
@@ -48,6 +48,7 @@ etikai-bot/
     │   ├── api.js           # HTTP requests to Kite endpoints
     │   └── network.js       # Contract addresses and ABIs
     ├── services/
+    │   ├── badges.js        # NEW: Eligible bagdes minting logic
     │   ├── bridge.js        # Asset bridging logic
     │   ├── chat.js          # Chat automation logic
     │   ├── groq.js          # Question generation via Groq API
@@ -109,4 +110,5 @@ This tool is for educational and testing purposes only on the Kite AI Ozone Test
 ## 📄 License
 
 This project is licensed under the [MIT © 2025](https://github.com/itsnodrops/etikia-bot/blob/main/LICENSE).
+
 
