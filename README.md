@@ -11,6 +11,7 @@ Automation tools for interacting with **Kite AI Ozone Testnet** [](https://testn
   - ✅ Auto complete daily quiz
   - 🧠 Auto generate questions by [Groq API](https://console.groq.com/) & [Ethereum Tx Hash](https://eth.blockscout.com/blocks)
   - 💬 Auto send chat messages to available Kite agents
+  - 🏷️ Auto mint eligible badge
   - 💰 Auto claim staking rewards
   - 🔗 Auto stake to active subnets
   - 🔄 **Auto swap between KITE and USDT**
@@ -108,3 +109,4 @@ This tool is for educational and testing purposes only on the Kite AI Ozone Test
 ## 📄 License
 
 This project is licensed under the [MIT © 2025](https://github.com/itsnodrops/etikia-bot/blob/main/LICENSE).
+
